@@ -23,6 +23,15 @@ h1 {
     font-family: 'Dancing Script', cursive;
     flex: 1;
     margin: 5px;
+    position: relative;
+}
+
+h4 {
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 .one {
